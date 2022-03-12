@@ -73,11 +73,23 @@ namespace SEDC.Oop.Class03.Arrays
                 Console.WriteLine(names1[i]);
             }
 
+            foreach(string element in names1)
+            {
+                Console.WriteLine("Foreach with names: "+ element);
+            }
 
-
-
-
-
+            foreach (string name in names1)
+            {
+                if (name == "Aleksandar")
+                {
+                    continue;
+                }
+                if (name == "Ilija")
+                {
+                    break;
+                }
+                Console.WriteLine(name);
+            }
             Console.ReadLine();
         }
     }
