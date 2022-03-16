@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.OoP.Class04.Strings", "SEDC.OoP.Class04.Strings\SEDC.OoP.Class04.Strings.csproj", "{644A23C7-AE40-440F-8842-4BAF92CCC558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class04.DateTime", "..\SEDC.Oop.Class04.DateTime\SEDC.Oop.Class04.DateTime.csproj", "{1711CEFC-8EC9-414B-A482-D63AEF8286C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644A23C7-AE40-440F-8842-4BAF92CCC558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644A23C7-AE40-440F-8842-4BAF92CCC558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644A23C7-AE40-440F-8842-4BAF92CCC558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644A23C7-AE40-440F-8842-4BAF92CCC558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1711CEFC-8EC9-414B-A482-D63AEF8286C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1711CEFC-8EC9-414B-A482-D63AEF8286C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1711CEFC-8EC9-414B-A482-D63AEF8286C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1711CEFC-8EC9-414B-A482-D63AEF8286C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3148993B-D312-4343-B187-793B63AF87A8}
+	EndGlobalSection
+EndGlobal
